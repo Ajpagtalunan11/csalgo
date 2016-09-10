@@ -17,7 +17,7 @@ public class Recursion {
         numIn = sc.nextLong();
           for (int i = 1; i <= numIn; sum += i++);
             System.out.println("Summation of " + numIn + " = " + sum);
-
+                System.out.println("Pogi ako");
     }
 }
     
