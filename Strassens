@@ -39,8 +39,8 @@ m7 = (a01 - a11) * (b10 + b11) ;
          c10 = m2 + m4;
          c11  = m1 + m3- m2 + m6;
          
-         System.out.println(c00+""+c01);
-         System.out.println(c10+""+c11);
+         System.out.println(c00+" "+c01);
+         System.out.println(c10+" "+c11);
 
         
         
